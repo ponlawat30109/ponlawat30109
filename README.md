@@ -30,7 +30,7 @@ I enjoy solving technical problems, optimizing workflows, and building systems t
 - Node.js, Express.js
 - RESTful APIs
 - MySQL, PostgreSQL, MongoDB
-- Postman
+- Docker, Postman
 
 ---
 
