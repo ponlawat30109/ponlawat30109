@@ -36,14 +36,16 @@ I enjoy solving technical problems, optimizing workflows, and building systems t
 
 ---
 
-## 💼 Professional Projects — KOS Design
+## 💼 Professional Projects
+
+### KOS Design · Game Developer (2022–2025)
 
 - **Outlanders Survive:** Survival multiplayer game (Combat & Sync systems)
 - **Outlanders MMO:** Vivox integration, Friend/Skill systems, and scale sync
 - **Fall Race:** Casual party game with animation and API controllers
 - **Super Bounce:** Mobile arcade game with persistent data systems
 
-🔗 **KOS Design Work Portfolio:** [View my professional game development work](https://ponlawat30109.github.io/GameDevPortfolio/)
+🔗 **Work Portfolio:** [https://ponlawat30109.github.io/GameDevPortfolio/](https://ponlawat30109.github.io/GameDevPortfolio/)
 
 ---
 
