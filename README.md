@@ -22,6 +22,7 @@ I enjoy solving technical problems, optimizing workflows, and building systems t
 ### Game Development
 
 - Unity, C#
+- Unreal Engine, C++
 - Multiplayer Synchronization
 - Cinemachine, Addressables
 - Mobile Optimization
