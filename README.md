@@ -46,7 +46,11 @@ I enjoy solving technical problems, optimizing workflows, and building systems t
 - **Fall Race:** Casual party game with animation and API controllers
 - **Super Bounce:** Mobile arcade game with persistent data systems
 
-🔗 **Work Portfolio:** [https://ponlawat30109.github.io/GameDevPortfolio/](https://ponlawat30109.github.io/GameDevPortfolio/)
+---
+
+## 🔗 Portfolio
+
+**Work Portfolio:** [https://ponlawat30109.github.io/GameDevPortfolio/](https://ponlawat30109.github.io/GameDevPortfolio/)
 
 ---
 
